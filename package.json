@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "dependencies": {
+    "mariadb": "^3.0.0",
+    "sequelize": "^6.19.0"
+  }
+}
